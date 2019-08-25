@@ -1,0 +1,6 @@
+encho "# cng">>README.md
+git init
+git add README.md
+git commit -m "first commi"
+git remote add origin http://github.com/chgxio/cng.git
+git push -a origin master
